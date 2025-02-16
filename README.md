@@ -1,6 +1,6 @@
-# Peyronnet Group Status Page
+# GRP Status Page
 
-This repository contains the source code for the Peyronnet Group Status Page, a Next.js React TypeScript application built using [shadcn/ui](https://github.com/shadcn-ui/ui). The status page provides real-time and historical information on the operational status of various services provided by the Peyronnet Group.
+This repository contains the source code for the GRP Status Page, a Next.js React TypeScript application built using [shadcn/ui](https://github.com/shadcn-ui/ui). The status page provides real-time and historical information on the operational status of various services provided by the GRP.
 
 ## Project Structure
 
@@ -36,7 +36,7 @@ The project's directory structure is as follows:
 
 ## Installation
 
-To get started with the Peyronnet Group Status Page, follow these steps:
+To get started with the GRP Status Page, follow these steps:
 
 1. **Clone the repository**:
 
